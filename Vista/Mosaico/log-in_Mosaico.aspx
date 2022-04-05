@@ -25,7 +25,7 @@
 		<div class="inner">
 
 			<!-- Logo -->
-			<a href="/Vista/Main/Pg_Main_Eterna/Eterna/indexMain.aspx" class="logo">
+			<a href="../Main/index.aspx" class="logo">
 				<img src="images/pic00.png" alt="" width="10%" /><span class="title">Poli-Tech®</span>
 			</a>
 
@@ -43,8 +43,8 @@
 <nav id="menu">
 	<h2>Menu</h2>
 	<ul>
-		<li><a href="/Vista/Main/Pg_Main_Eterna/Eterna/indexMain.aspx">Home</a></li>
-		<li><a href="log-in.html">Administrador</a></li>
+		<li><a href="../Main/index.aspx">Home</a></li>
+		<li><a href="AdminMosaico.aspx">Administrador</a></li>
 
 	</ul>
 </nav>

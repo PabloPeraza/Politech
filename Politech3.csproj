@@ -222,6 +222,7 @@
     <Content Include="Vista\Main\forms\Readme.txt" />
     <Content Include="Vista\Main\index.aspx" />
     <Content Include="Vista\Main\servicios.aspx" />
+    <Content Include="Vista\Mosaico\AdminMosaico.aspx" />
     <Content Include="Vista\Mosaico\assets\bootstrap-icons\bootstrap-icons.css" />
     <Content Include="Vista\Mosaico\assets\bootstrap-icons\index.html" />
     <Content Include="Vista\Mosaico\assets\css\fontawesome-all.min.css" />
@@ -388,6 +389,13 @@
     </Compile>
     <Compile Include="Vista\Main\servicios.aspx.designer.cs">
       <DependentUpon>servicios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Mosaico\AdminMosaico.aspx.cs">
+      <DependentUpon>AdminMosaico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\Mosaico\AdminMosaico.aspx.designer.cs">
+      <DependentUpon>AdminMosaico.aspx</DependentUpon>
     </Compile>
     <Compile Include="Vista\Mosaico\index_Mosaico.aspx.cs">
       <DependentUpon>index_Mosaico.aspx</DependentUpon>
