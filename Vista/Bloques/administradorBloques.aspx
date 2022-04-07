@@ -20,7 +20,7 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
-	<form id="form1" runat="server">
+	
     <body class="is-preload">
 
 		<!-- Sidebar -->
@@ -67,21 +67,10 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
-		<asp:GridView  ID="gvProductos" runat="server" >
-					<Columns> 
-						<asp:BoundField DataField="ID_Producto" HeaderText="ID"/>
-						<asp:BoundField DataField="Nombre" HeaderText="Nombre"/>
-						<asp:BoundField DataField="Marca" HeaderText="Marca"/>
-						<asp:BoundField DataField="Modelo" HeaderText="Modelo"/>
-						<asp:BoundField DataField="Unidad" HeaderText="Unidad"/>
-						<asp:BoundField DataField="Precio" HeaderText="Precio"/>
-						<asp:BoundField DataField="Descripcion" HeaderText="Descripcion"/>
-					</Columns>
 
-				</asp:GridView>
 	</body>
 				
 
 
-</form>
+
 </html>

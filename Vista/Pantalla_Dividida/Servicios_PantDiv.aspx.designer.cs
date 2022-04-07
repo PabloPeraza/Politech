@@ -7,9 +7,9 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace Politech3.Vista.Bloques {
+namespace Politech3.Vista.Pantalla_Dividida {
     
     
-    public partial class Servicios {
+    public partial class Servicios_PantDiv {
     }
 }
