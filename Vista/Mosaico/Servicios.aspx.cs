@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Politech3.Vista.Pantalla_Dividida
+namespace Politech3.Vista.Mosaico
 {
-    public partial class serviciosPantallaDiv : System.Web.UI.Page
+    public partial class Servicios : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

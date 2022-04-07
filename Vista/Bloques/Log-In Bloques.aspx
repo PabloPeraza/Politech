@@ -9,7 +9,8 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
-	<body class="is-preload">
+	<form runat="server">
+    <body class="is-preload">
 
 		<!-- Header -->
 			<header id="header">
@@ -34,16 +35,17 @@
 						<div class="fields">
 							<div class="field half">
 								<label for="name">Usuario</label>
-								<input type="text" name="name" id="name" />
+                                <asp:TextBox ID="Tb_Usuario" runat="server"></asp:TextBox>
 							</div>
 							<div class="field half">
 								<label for="password">Contraseña</label>
-								<input type="password" name="password" id="password" />
+                                <asp:TextBox ID="Tb_password" runat="server" TextMode="Password"></asp:TextBox>
 							</div>
 							
 						</div>
 						<ul class="actions">
-							<li><a href="" class="button submit">Entrar</a></li>
+                            <br />
+							<li> <asp:Button ID="Bn_Login" runat="server" Text="Login" CssClass="button submit" Style=""/> </li>
 						</ul>
 					</form>
 				</section>
@@ -87,4 +89,5 @@
 			<script src="assets/js/main.js"></script>
 
 	</body>
+</form>
 </html>
