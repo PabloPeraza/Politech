@@ -111,8 +111,8 @@ C:\Users\pablo\Documents\GitHub\Politech\bin\roslyn\VBCSCompiler.exe
 C:\Users\pablo\Documents\GitHub\Politech\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\pablo\Documents\GitHub\Politech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\pablo\Documents\GitHub\Politech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\pablo\Documents\GitHub\Politech\obj\Debug\Politech3.csproj.AssemblyReference.cache
 C:\Users\pablo\Documents\GitHub\Politech\obj\Debug\Politech3.csproj.CoreCompileInputs.cache
 C:\Users\pablo\Documents\GitHub\Politech\obj\Debug\Politech3.csproj.CopyComplete
 C:\Users\pablo\Documents\GitHub\Politech\obj\Debug\Politech3.dll
 C:\Users\pablo\Documents\GitHub\Politech\obj\Debug\Politech3.pdb
+C:\Users\pablo\Documents\GitHub\Politech\obj\Debug\Politech3.csproj.AssemblyReference.cache

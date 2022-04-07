@@ -80,7 +80,7 @@
           <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown"><img src="assets/img/pic00.png" alt="Logo" width="40%"></h2>
+                <h2 class="animate__animated animate__fadeInDown"><img src="assets/img/pic00.png" alt="Logo" width="30%"></h2>
                 <p class="animate__animated animate__fadeInUp">Se bienvenido a este catalogo de productos de computacion, aqui encontraras desde lo mas basico como ratones hasta computadoras de gama alta con la mejor calidad de marcas y componentes.</p>
                 
               </div>
@@ -91,7 +91,7 @@
           <div class="carousel-item" style="background: url(assets/img/slide/slide-2.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown"><img src="assets/img/pic00.png" alt="Logo" width="40%"></h2>
+                <h2 class="animate__animated animate__fadeInDown"><img src="assets/img/pic00.png" alt="Logo" width="30%"></h2>
                 <p class="animate__animated animate__fadeInUp">Cuando la gente hace compras en el sitio de Poli-Tech
                    tiene muchas opciones para encontrar su siguiente artículo favorito: Buscar procesadores, graficas, o 
                    ir directo a la ofertas.</p>
@@ -104,7 +104,7 @@
           <div class="carousel-item" style="background: url(assets/img/slide/slide-3.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown"><img src="assets/img/pic00.png" alt="Logo" width="40%"></h2>
+                <h2 class="animate__animated animate__fadeInDown"><img src="assets/img/pic00.png" alt="Logo" width="30%"></h2>
                 <p class="animate__animated animate__fadeInUp">Los Administradores tienen su propia area donde podran acceder y modificar la informacion directamente en en sitio, sin necesidad de programas externos.</p>
                 
               </div>
@@ -129,14 +129,11 @@
 
     <section id="featured" class="featured">
       <div class="container">
-
         <div class="row">
           <div class="col-lg-4">
             <div class="icon-box"> 
          <a href="../Bloques/IndexBloques.aspx"><img src="assets/img/Bloque.png" width="99%" alt=""></a>
          
-              
-              
               </div>
           </div>
           <div class="col-lg-4 mt-4 mt-lg-0">
@@ -150,7 +147,6 @@
               </div>
           </div>
         </div>
-
       </div>
     </section><!-- End Featured Section -->
   

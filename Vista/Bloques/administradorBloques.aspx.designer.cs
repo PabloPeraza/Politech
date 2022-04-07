@@ -7,11 +7,22 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Politech3.Vista.Bloques {
-    
-    
-    public partial class IndexBloques {
-        
+namespace Politech3.Vista.Bloques
+{
+
+
+    public partial class IndexBloques
+    {
+
+        /// <summary>
+        /// form1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+
         /// <summary>
         /// Alta control.
         /// </summary>
@@ -20,7 +31,7 @@ namespace Politech3.Vista.Bloques {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Alta;
-        
+
         /// <summary>
         /// Baja control.
         /// </summary>
@@ -29,7 +40,7 @@ namespace Politech3.Vista.Bloques {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Baja;
-        
+
         /// <summary>
         /// Modificar control.
         /// </summary>
@@ -38,7 +49,7 @@ namespace Politech3.Vista.Bloques {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Modificar;
-        
+
         /// <summary>
         /// Salir control.
         /// </summary>
@@ -47,5 +58,14 @@ namespace Politech3.Vista.Bloques {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Salir;
+
+        /// <summary>
+        /// gvProductos control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView gvProductos;
     }
 }
